@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://gtrtuugii.github.io/csb-rdxfbp/static/css/main.c090d22a.chunk.css",
+    "main.js": "https://gtrtuugii.github.io/csb-rdxfbp/static/js/main.62e1ab3e.chunk.js",
+    "main.js.map": "https://gtrtuugii.github.io/csb-rdxfbp/static/js/main.62e1ab3e.chunk.js.map",
+    "runtime-main.js": "https://gtrtuugii.github.io/csb-rdxfbp/static/js/runtime-main.7839fa4f.js",
+    "runtime-main.js.map": "https://gtrtuugii.github.io/csb-rdxfbp/static/js/runtime-main.7839fa4f.js.map",
+    "static/js/2.9f94cb9b.chunk.js": "https://gtrtuugii.github.io/csb-rdxfbp/static/js/2.9f94cb9b.chunk.js",
+    "static/js/2.9f94cb9b.chunk.js.map": "https://gtrtuugii.github.io/csb-rdxfbp/static/js/2.9f94cb9b.chunk.js.map",
+    "index.html": "https://gtrtuugii.github.io/csb-rdxfbp/index.html",
+    "static/css/main.c090d22a.chunk.css.map": "https://gtrtuugii.github.io/csb-rdxfbp/static/css/main.c090d22a.chunk.css.map",
+    "static/js/2.9f94cb9b.chunk.js.LICENSE.txt": "https://gtrtuugii.github.io/csb-rdxfbp/static/js/2.9f94cb9b.chunk.js.LICENSE.txt",
+    "static/media/uwa-sq.75950ab7.bin": "https://gtrtuugii.github.io/csb-rdxfbp/static/media/uwa-sq.75950ab7.bin"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7839fa4f.js",
+    "static/js/2.9f94cb9b.chunk.js",
+    "static/css/main.c090d22a.chunk.css",
+    "static/js/main.62e1ab3e.chunk.js"
+  ]
+}
